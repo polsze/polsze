@@ -31,7 +31,7 @@
 </div>
 
 <div><h3>Contact:</h3>
-- Email: polbarrios835237@gmail.com
+<p>- Email: polbarrios835237@gmail.com</p></br>
 - Website: https://pbxdigital.com.ar
 </div>
 ---
