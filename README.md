@@ -1,17 +1,19 @@
 <div id="header" align="center">
     <img src="[https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif](https://www.hostingplus.com.co/wp-content/uploads/2021/11/editor_codigo.jpg)" width="200" />
     <h1 align="center">Hi 👋, I'm Pablo</h1>
-    <h3 align="center">I'm a junior web developer</h3>
+    <h3 align="center">Front-End Developer | React & Modern Web Development</h3>
+    <p>I'm a freelance Front-End Developer passionate about building modern, responsive, and user-friendly web experiences.
+    I work on real-world projects, transforming ideas and visual concepts into functional interfaces, with a focus on clean code, usability, and performance.</p>
 </div>
 ---
 
 👨‍💻 About Me :
 
-- 📝 I work as a freelance developer
-
-- 📫 How to reach me **polbarrios835237@gmail.com**
-
-- 🌱 I’m currently learning **React.js & Node JS**
+- 💻 Freelance Front-End Developer at PBX Digital (https://pbxdigital.com.ar)
+- ⚛️ Focused on React, JavaScript, Next.js, and Tailwind CSS.
+- 🎨 Interested in UI implementation, responsive design, and user experience.
+- 🛠️ Experienced in building websites, reusable components, and optimizing web performance.
+- 🌱 Always learning and exploring new technologies.
 
 
 <div align="left">
@@ -27,6 +29,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
+
+- Email: polbarrios835237@gmail.com
+- Website: https://pbxdigital.com.ar
 
 ---
 
